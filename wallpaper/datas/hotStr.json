@@ -26,7 +26,31 @@
     "title": "6411_18",
     "urlStr": "/wallpaper/new6411/6411_18.jpeg",
     "lockType": 1
+  },{
+      "key": "F1B53A92-FA8B-4BEB-B835-4DF51B0FD7E0A",
+      "type": 1,
+      "title": "photo_part",
+      "urlStr": "/wallpaper/new6411/photo_part/IMG_5337.HEIC",
+      "videoStr": "/wallpaper/new6411/photo_part/IMG_5337.MOV",
+      "lockType": 1
+    },
+  {
+    "key": "F1B53A92-FA8B-4BEB-B835-4DF51B0FD7E0B",
+    "type": 1,
+    "title": "photo_part_3",
+    "urlStr": "/wallpaper/new6411/photo_part_3/IMG_5335.HEIC",
+    "videoStr": "/wallpaper/new6411/photo_part_3/IMG_5335.MOV",
+    "lockType": 1
   },
+  {
+    "key": "F1B53A92-FA8B-4BEB-B835-4DF51B0FD7E0C",
+    "type": 1,
+    "title": "dog",
+    "urlStr": "/wallpaper/new6411/dog/IMG_4461.HEIC",
+    "videoStr": "/wallpaper/new6411/dog/IMG_4461.MOV",
+    "lockType": 1
+  },
+
   {
     "key": "9E7BC035-784C-44AD-98B2-17F5C8746622",
     "type": 0,
