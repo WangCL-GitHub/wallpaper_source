@@ -1,0 +1,26 @@
+[
+  {
+    "key": "1CA22754-661F-49EC-B603-11B180D29FC1",
+    "title": "热门",
+    "title_Hant": "熱門",
+    "urlStr": "/wallpaper/datas/hotStr.json",
+  },
+  {
+    "key": "1CA22754-661F-49EC-B603-11B180D29FC1",
+    "title": "道德经",
+    "title_Hant": "道德經",
+    "urlStr": "/wallpaper/datas/ddjStr.json",
+  },
+  {
+    "key": "1CA22754-661F-49EC-B603-11B180D29FC1",
+    "title": "文字",
+    "title_Hant": "文字",
+    "urlStr": "/wallpaper/datas/textStr.json",
+  },
+  {
+    "key": "1CA22754-661F-49EC-B603-11B180D29FC1",
+    "title": "色系",
+    "title_Hant": "色系",
+    "urlStr": "/wallpaper/datas/colorStr.json",
+  }
+]
