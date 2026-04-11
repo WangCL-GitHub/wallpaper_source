@@ -1,24 +1,36 @@
 [
   {
-    "key": "1CA22754-661F-49EC-B603-11B180D29FC1",
+    "key": "454B2676-886A-45B1-9BCF-BA503E3FBC8B",
     "title": "热门",
     "title_Hant": "熱門",
     "urlStr": "/wallpaper/datas/hotStr.json",
   },
   {
-    "key": "1CA22754-661F-49EC-B603-11B180D29FC1",
+    "key": "6E6BF151-8C61-424A-AA5C-F35E7CB87EC5",
     "title": "道德经",
     "title_Hant": "道德經",
     "urlStr": "/wallpaper/datas/ddjStr.json",
   },
   {
-    "key": "1CA22754-661F-49EC-B603-11B180D29FC1",
+    "key": "DE35DFE4-65D8-4A2A-906C-5EEECC6714DB",
+    "title": "风景",
+    "title_Hant": "風景",
+    "urlStr": "/wallpaper/datas/scenery.json",
+  },
+  {
+    "key": "3615B1A4-4542-4141-AC50-DEC8D878271E",
+    "title": "人物",
+    "title_Hant": "人物",
+    "urlStr": "/wallpaper/datas/person.json",
+  },
+  {
+    "key": "0BA5DDD8-ACB6-44D0-B731-E26A8180DE29",
     "title": "文字",
     "title_Hant": "文字",
     "urlStr": "/wallpaper/datas/textStr.json",
   },
   {
-    "key": "1CA22754-661F-49EC-B603-11B180D29FC1",
+    "key": "8011DE27-559F-410D-95CD-717293F3FC34",
     "title": "色系",
     "title_Hant": "色系",
     "urlStr": "/wallpaper/datas/colorStr.json",
